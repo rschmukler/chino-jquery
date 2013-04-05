@@ -6,9 +6,9 @@ Plugin for chino to use jQuery instead of [component/dom](http://github.com/comp
 # Usage
 
     var Chino = require('chino');
-    var chino-jquery = require('chino-jquery');
+    var chinoJquery = require('chino-jquery');
 
-    Chino.use(chino-jquery);
+    Chino.use(chinoJquery);
 
 
 # Getting jQuery

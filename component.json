@@ -2,7 +2,7 @@
   "name": "chino-jquery",
   "repo": "rschmukler/chino-jquery",
   "description": "jQuery plugin for Chino's clientside views.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": ["chino", "jquery"],
   "dependencies": {
     "component/jquery": "*"
