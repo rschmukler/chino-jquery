@@ -1,0 +1,16 @@
+{
+  "name": "chino-jquery",
+  "repo": "rschmukler/chino-jquery",
+  "description": "jQuery plugin for Chino's clientside views.",
+  "version": "0.0.1",
+  "keywords": ["chino", "jquery"],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
